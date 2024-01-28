@@ -1,1 +1,1 @@
-This project is to build an online platform for a school.
+This project is to build an online platform for Smileschool.
